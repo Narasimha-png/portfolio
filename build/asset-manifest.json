@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c67480fe.css",
+    "main.js": "/static/js/main.3d99b734.js",
+    "static/media/project1.jpg": "/static/media/project1.7afdb0c5ff2ff763b855.jpg",
+    "static/media/project3.jpg": "/static/media/project3.00cad07fc47e95dab520.jpg",
+    "static/media/nodejs.png": "/static/media/nodejs.aa8bc616bb8252fa29f3.png",
+    "static/media/profile.jpeg": "/static/media/profile.a6a028ec133c0a3ce7d6.jpeg",
+    "static/media/django.png": "/static/media/django.8094db72c79e2210ead4.png",
+    "static/media/gfg.png": "/static/media/gfg.881e87b26d37f0cd1028.png",
+    "static/media/cpp.webp": "/static/media/cpp.40018a1b74d785bb1d9b.webp",
+    "static/media/sql.jpeg": "/static/media/sql.c8cd558b0f6a53382ab8.jpeg",
+    "static/media/codeforces.png": "/static/media/codeforces.b4d428de38b613bb8562.png",
+    "static/media/leetcode.jpeg": "/static/media/leetcode.2d256cdc5af3efa52732.jpeg",
+    "static/media/project2.jpeg": "/static/media/project2.0b2e7ca080b344102869.jpeg",
+    "static/media/logo.svg": "/static/media/logo.e422ca86014ad14ed818361ce3d7a2a9.svg",
+    "static/media/codechef.jpeg": "/static/media/codechef.d2d0658ba5cfe02c10c1.jpeg",
+    "static/media/logo2.svg": "/static/media/logo2.b34d54a6d84876ef2b4fa457fa569c06.svg",
+    "static/media/python.jpeg": "/static/media/python.2fa7520ef0151935e593.jpeg",
+    "static/media/codingninjas.jpeg": "/static/media/codingninjas.4469d40eece2ab0531fd.jpeg",
+    "static/media/java.jpeg": "/static/media/java.3a52ca29319e39214ce9.jpeg",
+    "index.html": "/index.html",
+    "main.c67480fe.css.map": "/static/css/main.c67480fe.css.map",
+    "main.3d99b734.js.map": "/static/js/main.3d99b734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c67480fe.css",
+    "static/js/main.3d99b734.js"
+  ]
+}
