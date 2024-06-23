@@ -103,7 +103,7 @@ export const projectDetails = [
     description: `•It auto suggest a comment based on previous comments of the video using sentiment analysis.`,
     techstack: "HTML/CSS, JavaScript, Node.js, Python ",
     previewLink: "/",
-    githubLink: "https://github.com/sree9398/SreeFoods",
+    githubLink: "https://github.com/Narasimha-png/YouTube-Creators-AutoReply",
   },
   {
     title: "Contest Notifier ",
