@@ -10,7 +10,7 @@ function Footer() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Sreekanth T
+          Narasimha S
         </a>{" "}
        
       </p>

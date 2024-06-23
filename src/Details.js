@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpeg";
+import profile from "./assets/profile.jpg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -24,9 +24,9 @@ import python from "./assets/techstack/python.jpeg";
 import cpp from "./assets/techstack/cpp.webp";
 import sql from "./assets/techstack/sql.jpeg";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
-import projectImage2 from "./assets/projects/project2.jpeg";
-import projectImage3 from "./assets/projects/project3.jpg";
+import projectImage1 from "./assets/projects/project1.png";
+import projectImage2 from "./assets/projects/project2.png";
+import projectImage3 from "./assets/projects/project3.png";
 //codingplatforms images
 import leetcode from "./assets/techstack/leetcode.jpeg";
 import codeforces from "./assets/techstack/codeforces.png";
@@ -41,18 +41,18 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "SREEKANTH T",
+  name: "Sri Lakshmi Narasimha S",
   tagline: "Competitive programming || Web Dev || MERN",
   img: profile,
-  about: `I'm a 3rd-year B.Tech student at Sree Vidyanikethan Engineering College, Tirupati, studying Computer Science CSE-AIML. I'm passionate about competitive programming and skilled in solving problems. Additionally, I enjoy web development using the MERN stack, where I create dynamic and user-friendly applications.`,
+  about: `I'm a 3rd-year B.Tech student at Sree Vidyanikethan Engineering College, Tirupati, studying Computer Science CSE. I'm passionate about competitive programming and skilled in solving problems. Additionally, I enjoy web development using the MERN stack, where I create dynamic and user-friendly applications.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/in/sree9398/",
-  github: "https://github.com/sree9398",
+  linkdein: "https://www.linkedin.com/in/slnarasimha/",
+  github: "https://github.com/Narasimha-png",
   twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/sreekanth.sree__/",
+  instagram: "https://www.instagram.com/narasimha_tiger_/",
 };
 
 
@@ -60,7 +60,7 @@ export const socialMediaUrl = {
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Bachelor of Technology in Computer Science & Engineering with specialization AIML",
+    Position: "Bachelor of Technology in Computer Science & Engineering",
     Company: "Sree Vidyanikethan Engineering College",
     Location: "Tirupati , Andhra Pradesh",
     Type: "Full Time",
@@ -68,8 +68,8 @@ export const eduDetails = [
   },
   {
     Position: "Intermediate",
-    Company: "Sri Chaitanya Junior College",
-    Location: "B.Thandrapadu , Kurnool , Andhra Pradesh",
+    Company: "SUGM Junior College",
+    Location: "B.KothaKota , Annamayya[dist] , Andhra Pradesh",
     Type: "Full Time",
     Duration: "JUN 2019 - MAR 2021",
   },
@@ -80,7 +80,6 @@ export const techStackDetails = {
   html: html,
   css: css,
   js: js,
-  django:django,
   react: react,
   bootstrap: bootstrap,
   nodejs: nodejs,
@@ -93,32 +92,32 @@ export const techStackDetails = {
   java:java,
   python:python,
   cpp:cpp,
-  sq:sql
+  sq:sql ,
 };
 
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "SreeFoods - React-Based Food Ordering App ",
+    title: "YouTube Creators AutoReply",
     image: projectImage1,
-    description: `•	SreeFoods is a React-based application focused on making food ordering easy.`,
-    techstack: "HTML/CSS, JavaScript, React ",
+    description: `•It auto suggest a comment based on previous comments of the video using sentiment analysis.`,
+    techstack: "HTML/CSS, JavaScript, Node.js, Python ",
     previewLink: "/",
     githubLink: "https://github.com/sree9398/SreeFoods",
   },
   {
-    title: "Real Estate Price Prediction Website ",
+    title: "Contest Notifier ",
     image: projectImage2,
-    description: `•	Developed a real estate price prediction website step-by-step. Utilized Bangalore home prices dataset from Kaggle.com.`,
-    techstack: "HTML/CSS, JavaScript, sklearn , linear regression",
-    previewLink: "/",
-    githubLink: "https://github.com/sree9398/Real-Estate-Price-Prediction-Website",
+    description: `•	Developed a real time contest notifier which notifies the timings of contests everyday @ 1:00AM.`,
+    techstack: "HTML/CSS, JavaScript, FireBase , CRON jobs , Node.js",
+    previewLink: "https://contesttoday.onrender.com/",
+    githubLink: "https://github.com/Narasimha-png/ContestToday",
   },
   {
-    title: "Simple Mail Clone Web App",
+    title: "Photon eLearning Platform",
     image: projectImage3,
-    description: `	Developed a simple mail clone web app.`,
-    techstack: "Django (backend) and HTML, CSS, JavaScript, Bootstrap (frontend).",
+    description: `	Developed a platform with tests , instant results and bunch of resources.`,
+    techstack: "NodeJs (backend) and HTML, CSS, JavaScript, Bootstrap (frontend).",
     previewLink: "/",
     githubLink: "https://github.com/sree9398/Simple-Mail-Clone-Application",
   },
@@ -129,31 +128,31 @@ export const codingplatforms=[
     {
       title:'leetcode',
       image: leetcode,
-      link:"https://leetcode.com/sree9398/"
+      link:"https://leetcode.com/u/Narasimha-png/"
     },
     {
       title:'codeforces',
       image: codeforces,
-      link:"https://codeforces.com/profile/sree9398"
+      link:"https://codeforces.com/profile/NarasimhaTiger"
     },
     {
       title:'geeks for geeks',
       image: gfg,
-      link:"https://auth.geeksforgeeks.org/user/sree9398"
+      link:"https://www.geeksforgeeks.org/user/narasimhas/"
     },
     {
       title:'coding ninjas',
       image: codingninjas,
-      link:"https://www.codingninjas.com/studio/profile/sree9398"
+      link:"https://www.naukri.com/code360/profile/9ea7aa4f-14e9-47d7-814a-2a0b2a0929eb"
     },
     {
       title:'codechef',
       image: codechef,
-      link:"https://www.codechef.com/users/sree9398"
+      link:"https://www.codechef.com/users/narasimhas"
     }
 ];
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "telugusreekanth58@gmail.com",
-  phone: "+91 9398299515",
+  email: "narasimhas9490@gmail.com",
+  phone: "+91 8008130603",
 };
