@@ -1,4 +1,4 @@
-// Enter all your detials in this file
+d// Enter all your detials in this file
 // Logo images
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
@@ -10,7 +10,6 @@ import css from "./assets/techstack/css.png";
 // import sass from "./assets/techstack/sass.png";
 import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
-import django from "./assets/techstack/django.png";
 import colab from "./assets/techstack/colab.jpeg";
 import bootstrap from "./assets/techstack/bootstrap.png";
 import vscode from "./assets/techstack/vscode.png";
