@@ -102,7 +102,7 @@ export const projectDetails = [
     image: projectImage1,
     description: `•It auto suggest a comment based on previous comments of the video using sentiment analysis.`,
     techstack: "HTML/CSS, JavaScript, Node.js, Python ",
-    previewLink: "/",
+    previewLink: "https://youtube-creators-autoreply.onrender.com/",
     githubLink: "https://github.com/Narasimha-png/YouTube-Creators-AutoReply",
   },
   {
